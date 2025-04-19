@@ -140,7 +140,8 @@ body {
   background-image: url(../images/01.svg);
   background-repeat: no-repeat;
   background-position: top left;
-  padding-top: 50px;
+  padding-top: 103px;
+  padding-left: 150px;
 }
 .travel-item:nth-child(2) .step-body {
   background-image: url(../images/02.svg);
